@@ -129,6 +129,7 @@ namespace Content.Client
                 "ShuttleController",
                 "HumanInventoryController",
                 "UseDelay",
+                "Pourable",
                 "Paper",
                 "Write"
             };

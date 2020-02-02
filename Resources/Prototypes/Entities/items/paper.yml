@@ -23,7 +23,7 @@
   name: Pen
   parent: BaseItem
   id: Pen
-  description: 'Used to write on stuff'
+  description: 'A dark ink pen'
   components:
     - type: Sprite
       sprite: Objects/Misc/bureaucracy.rsi
