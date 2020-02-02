@@ -128,7 +128,9 @@ namespace Content.Client
                 "UtilityBeltClothingFill",
                 "ShuttleController",
                 "HumanInventoryController",
-                "UseDelay"
+                "UseDelay",
+                "Paper",
+                "Write"
             };
 
             foreach (var ignoreName in registerIgnore)
